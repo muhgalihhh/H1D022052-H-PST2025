@@ -24,7 +24,7 @@ Selamat datang di repository praktikum mikrokontroler untuk mata kuliah **H1D022
 6. **[Pertemuan 5 - LED IoT](./Pertemuan%205%20-%20LED%20IoT)**  
    Pengendalian LED melalui jaringan Internet of Things (IoT).
 
-7. **[Responsi - Final Project](./Responsi%20-%20Final%20Project)**  
+7. **[Responsi - Final Project](./H1D022052_Muhamad%20Galih_Responsi-PST_ShiftH_PaketD)**  
    Pengujian dan presentasi akhir terkait semua praktikum yang telah dilakukan selama semester. Di sini, Anda akan menerapkan semua pengetahuan dan keterampilan yang diperoleh.
 
 ## Teknologi yang Digunakan
