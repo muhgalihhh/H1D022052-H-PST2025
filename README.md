@@ -1,6 +1,5 @@
 # Praktikum Mikrokontroler H1D022052-H-PST2025
 
-![Mikrokontroler](https://via.placeholder.com/600x200.png?text=Praktikum+Mikrokontroler)
 
 Selamat datang di repository praktikum mikrokontroler untuk mata kuliah **H1D022052-H-PST2025**. Repository ini berisi kode dan dokumentasi untuk berbagai praktikum terkait mikrokontroler, seperti penggunaan sensor, LED, motor servo, dan komunikasi I2C.
 
